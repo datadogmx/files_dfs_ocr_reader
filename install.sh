@@ -7,6 +7,8 @@ pip install -r requirements.txt
 cd ..
 
 # Install tesseract and lenguage module
+sudo add-apt-repository ppa:alex-p/tesseract-ocr-devel
+sudo apt-get update
 sudo apt-get install tesseract-ocr
 sudo apt install libtesseract-dev
 sudo apt-get install tesseract-ocr-spa -y
