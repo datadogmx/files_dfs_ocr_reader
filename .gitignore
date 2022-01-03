@@ -1,3 +1,6 @@
+# Salidas de los notebooks
+notebooks/ejecuciones
+yolov5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
