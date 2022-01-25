@@ -13,7 +13,7 @@ Install requeriments: pip install -r requirements.txt
 
 # Structure 
 
-| Modulo  | Descripción |
+| Module  | Description |
 | ------------- | ------------- |
 | ocr_dfs.files_dfs_pipeline.py  | This module contains functions and classes developed to implement all pipeline suggested for the authors to detect and extract dfs files information.   |
 | ocr_dfs.files_dfs_detector.py  | This module contains functions and classes developed to detect orientation, dfs files into images.   |
